@@ -4,7 +4,7 @@
 
 <h1> Ecommerce Website </h1>
 
-<p> This website is a fully featured eCommerce site that includes the following features: </p>
+<p> This website is a fully featured eCommerce site built using the MERN (MongoDB, Express, React, Node.js) stack. It includes the following features: </p>
 
 <h2> Features </h2>
 
